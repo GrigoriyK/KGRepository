@@ -1,1 +1,2 @@
 # KGRepository
+git init
